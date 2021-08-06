@@ -74,6 +74,7 @@ header > .navbar {
 	background-color: white;
 	height: 140px;
 	margin: 100px 100px 100px 100px;
+	margin-bottom: 50px !important;
 	text-align: center;
 	padding: 20px 30px;
 	border-radius: 10px;
@@ -96,7 +97,9 @@ header > .navbar {
 .section > .section-two {
 	width: 100%;
 	text-align: center;
-	margin-top: 100px;
+	margin-top: 50px;
+	margin-left: 120px;
+	margin-right: 120px;
 }
 
 .section > .section-two > a {
@@ -111,4 +114,5 @@ header > .navbar {
 
 .section > .section-two > a:hover {
 opacity: 1;
+border: 1px solid white;
 }

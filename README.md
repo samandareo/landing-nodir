@@ -1,4 +1,6 @@
 # landing-nodir
 Gamer uchun landing page :)
 
-> website : nodiruz007.netlify.app
+<b>website </b>: nodiruz007.netlify.app
+
+> Sayt

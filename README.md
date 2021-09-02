@@ -7,4 +7,4 @@ Gamer uchun landing page :)
 
 <i>Sayt to'liq bitganidan so'ng "reliase" chiqariladi.</i>
 
-> Saytning backend qismi php,
+> Saytning backend qismi php, yoki nodejs(express)da qilinishi mumkin.

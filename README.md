@@ -6,3 +6,5 @@ Gamer uchun landing page :)
 > Saytning hozircha 2 sahifasi tugallandi . Shuningdek sayt hali to'liq moslashuvchan emas(Desktop first).
 
 <i>Sayt to'liq bitganidan so'ng "reliase" chiqariladi.</i>
+
+> Saytning backend qismi php,

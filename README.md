@@ -8,3 +8,6 @@ Gamer uchun landing page :)
 <i>Sayt to'liq bitganidan so'ng "reliase" chiqariladi.</i>
 
 > Saytning backend qismi php, yoki nodejs(express)da qilinishi mumkin.
+<b>Bularni barchasini vaqt ko'rsatadi.</b>
+
+>DEADLINE (front-end qismi uchun) : 6.09.2021

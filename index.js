@@ -24,7 +24,7 @@ AOS.init({
 });
 
 new Typed('#typed',{
-  strings : ['Mening ismim Nodir. Yoshim 15 da . Men  PUBG MOBILE o \'yiniga qiziqaman.'],
+  strings : ['Mening ismim Nodir. Yoshim 15 da . Men  PUBG MOBILE o\'yiniga qiziqaman.'],
   typeSpeed : 60,
   delaySpeed : 90,
   loop : false

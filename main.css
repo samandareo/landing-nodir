@@ -116,3 +116,19 @@ header > .navbar {
 opacity: 1;
 border: 1px solid white;
 }
+
+/* Men haqimda  */
+.men-haqimda {
+	width: 100%;
+	background-image: url("/images/about-me.jpg");
+	height: 100vh;
+	background-size: cover;
+}
+
+.men-haqimda > .curtain {
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	margin: 100px 100px;;
+}
+

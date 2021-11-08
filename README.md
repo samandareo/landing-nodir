@@ -9,5 +9,3 @@ Gamer uchun landing page :)
 
 > Saytning backend qismi php, yoki nodejs(express)da qilinishi mumkin.
 <b>Bularni barchasini vaqt ko'rsatadi.</b>
-
->DEADLINE

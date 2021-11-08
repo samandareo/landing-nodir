@@ -10,4 +10,4 @@ Gamer uchun landing page :)
 > Saytning backend qismi php, yoki nodejs(express)da qilinishi mumkin.
 <b>Bularni barchasini vaqt ko'rsatadi.</b>
 
->DEADLINE (front-end qismi uchun) : 12.09.2021
+>DEADLINE (front-end qismi uchun) : 12.09.202
